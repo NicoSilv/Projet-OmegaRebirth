@@ -4,23 +4,23 @@
 
 ### Présentation globale :
 
-Bievenu sur __Omega-Rebirth__ ! 
+Bienvenue sur __Omega-Rebirth__ ! 
 __Omega-Rebirth__ est un serveur minecraft __moddé__ !
-La version de minecraft utilisé est la __1.16.5__ .
+La version de minecraft utilisée est la __1.16.5__ .
 
-__OmegaRebirth__ est un serveur __Farm2win__ _(F2W)_ c'est à dire un serveur a but économique !
-Plusieur moyen sont bon pour se faire de l'argent, tuer des monstres, récolté des minerais ou simplement faire pousser votre blé !
+__OmegaRebirth__ est un serveur __Farm2win__ _(F2W)_ c'est-à-dire un serveur à but économique !
+Plusieurs moyens sont bons pour se faire de l'argent, tuer des monstres, récolter des minerais ou simplement faire pousser votre blé !
 
-Tout cet argent vous sert a acheter des centaines de truc au __shop__ !
+Tout cet argent vous sert à acheter des centaines de trucs au __shop__ !
 
-Des boss custom avec des stratégies __unique__ vous attendent dans les __donjon__ !
-Tout au long de l'aventure, vous aurez la possibilité de rencontré des _mini-boss_ qui peuvenet vous donner des objets totalement unique ! 
+Des boss custom avec des stratégies __uniques__ vous attendent dans les __donjons__ !
+Tout au long de l'aventure, vous aurez la possibilité de rencontrer des _mini-boss_ qui peuvent vous donner des objets totalement uniques ! 
 
-En bref, vous pouvez devenir le plus __puissant__, avoir les meillieurs __constructions__ ou simplement devenir le plus __riche__ ! 
+En bref, vous pouvez devenir le plus __puissant__, avoir les meilleurs __constructions__ ou simplement devenir le plus __riche__ ! 
 
 --------------------
 
-### Quelque infos suplémentaires : 
+### Quelques infos supplémentaires : 
 
 #### Les commandes pratique :
 * /spawn
